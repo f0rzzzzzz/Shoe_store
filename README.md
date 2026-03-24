@@ -1,6 +1,6 @@
 # Shoe Store WebApp
 
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cf689804086742eb9c888b1bf7611b7a)](https://app.codacy.com/gh/f0rzzzzzz/Shoe_store/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 Веб-приложение для управления товарами обувного магазина. Проект включает клиентскую часть на React, сервер на FastAPI, работу с товарами и заказами, а также REST API для основных сценариев.
 
